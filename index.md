@@ -85,7 +85,7 @@ I also ran the following combinations. For some of the commands I didn't get any
 * cd ~. 
 
 ![Image](Screen Shot 2023-04-10 at 3.39.47 PM.png)
-* ls -lat. 
+* ls -lat
 
 ![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
 * ls -a. 
