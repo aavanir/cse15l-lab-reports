@@ -89,3 +89,5 @@ I also ran the following combinations. For some of the commands I didn't get any
 ![Image](Screen Shot 2023-04-10 at 3.42.18 PM.png)
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 ![Image](Screen Shot 2023-04-10 at 3.42.35 PM.png)
+
+
