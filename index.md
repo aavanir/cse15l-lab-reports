@@ -82,17 +82,23 @@ I also ran the following combinations. For some of the commands I didn't get any
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
 3. I ran all these commands and the following is what I got.
-* cd ~
+* cd ~. 
+
 ![Image](Screen Shot 2023-04-10 at 3.39.47 PM.png)
-* ls -lat
+* ls -lat. 
+
 ![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
-* ls -a
+* ls -a. 
+
 ![Image](Screen Shot 2023-04-10 at 3.40.18 PM.png)
-* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username
+* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username. 
+
 ![Image](Screen Shot 2023-04-10 at 3.41.51 PM.png)
-* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/. 
+
 ![Image](Screen Shot 2023-04-10 at 3.42.18 PM.png)
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt. 
+
 ![Image](Screen Shot 2023-04-10 at 3.42.35 PM.png)
 
 
