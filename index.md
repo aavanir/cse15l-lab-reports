@@ -88,7 +88,7 @@ I also ran the following combinations. For some of the commands I didn't get any
 * ls -lat
 
 ![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
-* ls -a. 
+* ls -a 
 
 ![Image](Screen Shot 2023-04-10 at 3.40.18 PM.png)
 * ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username. 
