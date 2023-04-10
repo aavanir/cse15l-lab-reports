@@ -3,14 +3,20 @@
 ## Changing Your Password
 1. Go to the link https://sdacs.ucsd.edu/~icc/index.php
 2. Enter your username and PID. ![Image](Screen Shot 2023-04-10 at 2.56.25 PM.png)
-3. Click the button under the header "Additional Accounts" ![Image](Screen Shot 2023-04-10 at 11.30.45 AM.png)
-5. Click on the "Global Password Change Tool" link in the orange box ![Image](Screen Shot 2023-04-10 at 2.58.06 PM.png)
+3. Click the button under the header "Additional Accounts"  
+![Image](Screen Shot 2023-04-10 at 11.30.45 AM.png)
+
+4. Click on the "Global Password Change Tool" link in the orange box ![Image](Screen Shot 2023-04-10 at 2.58.06 PM.png)
 6. Click on the "Proceed to the Password Change Tool" under the header "Student, AX, or Course-Specific Student Accounts" ![Image](Screen Shot 2023-04-10 at 2.58.44 PM.png)
 7. Enter your CSE 15L username (text on the button you first cliekced) ![Image](Screen Shot 2023-04-10 at 2.59.49 PM.png)
 8. Click on the "I want to reset my course-specific account password." link ![Image](Screen Shot 2023-04-10 at 3.00.43 PM.png)
 9. Do the Duo Multi-Factor Authentication
-10. Click on the "YES" button when prompted to confirm your email ![Image](Screen Shot 2023-04-10 at 3.01.36 PM.png)
-11. Go to your email and go to the "Password Reset" email. ![Image](Screen Shot 2023-04-10 at 3.02.57 PM.png) Click on the "UC San Diego Password reset page" link within the email ![Image](Screen Shot 2023-04-10 at 3.03.15 PM.png)
+10. Click on the "YES" button when prompted to confirm your email. ![Image](Screen Shot 2023-04-10 at 3.01.36 PM.png)
+11. Go to your email and go to the "Password Reset" email.  
+![Image](Screen Shot 2023-04-10 at 3.02.57 PM.png). 
+Click on the "UC San Diego Password reset page" link within the email. 
+![Image](Screen Shot 2023-04-10 at 3.03.15 PM.png)
+
 12. Enter your new password, confirm the password by entering it again, then click the "Change Password" button. ![Image](Screen Shot 2023-04-10 at 3.04.37 PM.png)
 
 
