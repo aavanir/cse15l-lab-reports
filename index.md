@@ -22,7 +22,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? . *(Change 
 
 ## Trying Some Commands
 
-1. Using the terminal in VScode, run the following commands: cd, ls, pwd, mkdir, and cp. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands 
+1. Using the terminal in VScode, run the following commands: cd, ls, pwd, mkdir, and cp. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
 * cd 
 ![Image](Screen Shot 2023-04-10 at 11.49.36 AM.png)
 * ls
@@ -34,7 +34,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? . *(Change 
 * cp
 ![Image](Screen Shot 2023-04-10 at 11.48.07 AM.png)
 
-I also ran the following combinations
+I also ran the following combinations. For some of the commands I didn't get any ouputs and for some I got errors.
 * cd and cp
 ![Image](Screen Shot 2023-04-10 at 11.48.18 AM.png)
 * pwd and ls
@@ -43,12 +43,19 @@ I also ran the following combinations
 ![Image](Screen Shot 2023-04-10 at 11.49.29 AM.png)
 
 
+
 2. Run the following commands and note the output. 
 * cd ~
+![Image](imageName.png)
 * ls -lat
+![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
 * ls -a
+![Image](imageName.png)
 * ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username
+![Image](imageName.png)
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+![Image](imageName.png)
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+![Image](imageName.png)
 
 3. I ran all these commands and the following is what I got. *Screenshots here
