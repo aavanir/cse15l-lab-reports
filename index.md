@@ -22,7 +22,26 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? . *(Change 
 
 ## Trying Some Commands
 
-1. Using the terminal in VScode, run the following commands: cd, ls, pwd, mkdir, and cp. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands *Screenshots*
+1. Using the terminal in VScode, run the following commands: cd, ls, pwd, mkdir, and cp. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands 
+* cd 
+![Image](Screen Shot 2023-04-10 at 11.49.36 AM.png)
+* ls
+![Image](Screen Shot 2023-04-10 at 11.47.08 AM.png)
+* pwd
+![Image](Screen Shot 2023-04-10 at 11.47.16 AM.png)
+* mkdir
+![Image](Screen Shot 2023-04-10 at 11.47.57 AM.png)
+* cp
+![Image](Screen Shot 2023-04-10 at 11.48.07 AM.png)
+
+I also ran the following combinations
+* cd and cp
+![Image](Screen Shot 2023-04-10 at 11.48.18 AM.png)
+* pwd and ls
+![Image](Screen Shot 2023-04-10 at 11.48.51 AM.png)
+* mkdir and pwd
+![Image](Screen Shot 2023-04-10 at 11.49.29 AM.png)
+
 
 2. Run the following commands and note the output. 
 * cd ~
