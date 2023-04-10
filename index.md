@@ -36,11 +36,13 @@ Note: I did not need to do these steps because my computer already had VScode do
 
 2. Type in the command ssh cs15lsp23dd@ieng6.ucsd.edu. However, you will have to replace "dd" with the letters in your course-specific account. I typed in the command ssh cs15lsp23dd@ieng6.ucsd.edu because the letters in my course-specific account were "dd". ![Image](Screen Shot 2023-04-10 at 3.31.29 PM.png) As you can see in the screenshot, under the heading "Additional Accounts", the letters for my course-specific account were the letters where the dashes are in "cs15lsp23--" on the button text. ![Image](Screen Shot 2023-04-10 at 11.30.45 AM.png)
 
-3. You may get the message The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+3. You may get the message 
+"The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? . ![Image](imageName.png) If this occurs, type in "yes" into the terminal.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? ." 
+![Image](imageName.png) If this occurs, type in "yes" into the terminal.
 
-4. You will then be prompted to enter your password. If you get an error message, make sure you wait 15-60 minutes after changing your CSE15L account password before trying again. When I attempted to do this, I got the following error message ![Image](imageName.png) I waited around 20 minutes before trying again, and then everything worked as it was supposed to.
+4. You will then be prompted to enter your password. If you get an error message, make sure you wait 15-60 minutes after changing your CSE15L account password before trying again. When I attempted to do this, I got an error message. I waited around 20 minutes before trying again, and then everything worked as it was supposed to.
 
 5. Once you enter your password, you will get this ![Image](Screen Shot 2023-04-10 at 3.29.14 PM.png) You are done!
 
