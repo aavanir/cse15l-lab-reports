@@ -28,15 +28,15 @@ Note: I did not need to do these steps because my computer already had VScode do
 
 1. Open the terminal in VScode. This can be done by opening VScode and going to "view" in the top left corner of your Mac. Then, click "view" and you should be able to open the terminal.
 
-2. Type in the command ssh cs15lsp23dd@ieng6.ucsd.edu. However, you will have to replace "dd" with the letters in your course-specific account. I typed in the command ssh cs15lsp23dd@ieng6.ucsd.edu because the letters in my course-specific account were "dd". *Screen shot here* As you can see in the screenshot, under the heading "Additional Accounts", the letters for my course-specific account were the letters where the dashes are in "cs15lsp23--" on the button text.
+2. Type in the command ssh cs15lsp23dd@ieng6.ucsd.edu. However, you will have to replace "dd" with the letters in your course-specific account. I typed in the command ssh cs15lsp23dd@ieng6.ucsd.edu because the letters in my course-specific account were "dd". ![Image](Screen Shot 2023-04-10 at 3.31.29 PM.png) As you can see in the screenshot, under the heading "Additional Accounts", the letters for my course-specific account were the letters where the dashes are in "cs15lsp23--" on the button text. ![Image](Screen Shot 2023-04-10 at 11.30.45 AM.png)
 
 3. You may get the message The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? . *(Change to screenshot)* If this occurs, type in "yes" into the terminal.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? . ![Image](imageName.png) If this occurs, type in "yes" into the terminal.
 
-4. You will then be prompted to enter your password. If you get an error message, make sure you wait 15-60 minutes after changing your CSE15L account password before trying again. When I attempted to do this, I got the following error message *Screenshot her* I waited around 20 minutes before trying again, and then everything worked as it was supposed to.
+4. You will then be prompted to enter your password. If you get an error message, make sure you wait 15-60 minutes after changing your CSE15L account password before trying again. When I attempted to do this, I got the following error message ![Image](imageName.png) I waited around 20 minutes before trying again, and then everything worked as it was supposed to.
 
-5. Once you enter your password, you will get this *Screenshot here*. You are done!
+5. Once you enter your password, you will get this ![Image](Screen Shot 2023-04-10 at 3.29.14 PM.png) You are done!
 
 
 ## Trying Some Commands
@@ -62,19 +62,24 @@ I also ran the following combinations. For some of the commands I didn't get any
 ![Image](Screen Shot 2023-04-10 at 11.49.29 AM.png)
 
 
-
 2. Run the following commands and note the output. 
 * cd ~
-![Image](imageName.png)
+* ls -lat
+* ls -a
+* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
+3. I ran all these commands and the following is what I got.
+* cd ~
+![Image](Screen Shot 2023-04-10 at 3.39.47 PM.png)
 * ls -lat
 ![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
 * ls -a
-![Image](imageName.png)
+![Image](Screen Shot 2023-04-10 at 3.40.18 PM.png)
 * ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username
-![Image](imageName.png)
+![Image](Screen Shot 2023-04-10 at 3.41.51 PM.png)
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-![Image](imageName.png)
+![Image](Screen Shot 2023-04-10 at 3.42.18 PM.png)
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-![Image](imageName.png)
-
-3. I ran all these commands and the following is what I got. *Screenshots here
+![Image](Screen Shot 2023-04-10 at 3.42.35 PM.png)
