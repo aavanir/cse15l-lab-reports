@@ -52,7 +52,8 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? ." If this 
 ## Trying Some Commands
 
 1. Using the terminal in VScode, run the following commands: , ls, pwd, mkdir, and cp. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
-```cd
+```
+cd
 ```
 ```ls
 ```
