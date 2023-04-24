@@ -63,7 +63,7 @@ This command is “List” and it is used to list the files and folders the give
 
 * ```pwd ```
 ![Image](Screen Shot 2023-04-10 at 11.47.16 AM.png)
-This command is “Print working directory” and it is used to display thecurrent working directory
+This command is “Print working directory” and it is used to display the current working directory
 
 * ```mkdir```
 ![Image](Screen Shot 2023-04-10 at 11.47.57 AM.png)
@@ -76,10 +76,15 @@ This command is "Copy" and it is used to copy files or directories from one loca
 I also ran the following combinations. For some of the commands I didn't get any ouputs and for some I got errors.
 * ```cd ``` and ```cp ```
 ![Image](Screen Shot 2023-04-10 at 11.48.18 AM.png)
+In this screenshot, there is an error.
+
 * ```pwd ``` and ```ls```
 ![Image](Screen Shot 2023-04-10 at 11.48.51 AM.png)
+In this screenshot, the pwd command ran becuase the current working directory was printed but the ls command did not.
+
 * ```mkdir ``` and ```pwd ```
 ![Image](Screen Shot 2023-04-10 at 11.49.29 AM.png)
+In this screenshot, nothing is printed.
 
 
 2. Run the following commands and note the output. 
