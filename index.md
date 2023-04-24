@@ -35,7 +35,7 @@ Note: I did not need to do these steps because my computer already had VScode do
 
 1. Open the terminal in VScode. This can be done by opening VScode and going to "view" in the top left corner of your Mac. Then, click "view" and you should be able to open the terminal.
 
-2. Type in the command ssh cs15lsp23dd@ieng6.ucsd.edu. However, you will have to replace "dd" with the letters in your course-specific account. I typed in the command ssh cs15lsp23dd@ieng6.ucsd.edu because the letters in my course-specific account were "dd". ![Image](Screen Shot 2023-04-10 at 3.31.29 PM.png) As you can see in the screenshot, under the heading "Additional Accounts", the letters for my course-specific account were the letters where the dashes are in "cs15lsp23--" on the button text.  
+2. Type in the command ```ssh cs15lsp23dd@ieng6.ucsd.edu```. However, you will have to replace "dd" with the letters in your course-specific account. I typed in the command ```ssh cs15lsp23dd@ieng6.ucsd.edu``` because the letters in my course-specific account were "dd". ![Image](Screen Shot 2023-04-10 at 3.31.29 PM.png) As you can see in the screenshot, under the heading "Additional Accounts", the letters for my course-specific account were the letters where the dashes are in "cs15lsp23--" on the button text.  
 
 ![Image](Screen Shot 2023-04-10 at 11.30.45 AM.png)
 
@@ -53,7 +53,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? ." If this 
 
 1. Using the terminal in VScode, run the following commands: ```cd ```, ```ls ```, ```pwd ```, ```mkdir```, and ```cp ```. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
 
-* ```cd ``
+* ```cd ```
 ![Image](Screen Shot 2023-04-10 at 11.49.36 AM.png)
 * ```ls ```
 ![Image](Screen Shot 2023-04-10 at 11.47.08 AM.png)
@@ -65,39 +65,39 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? ." If this 
 ![Image](Screen Shot 2023-04-10 at 11.48.07 AM.png)
 
 I also ran the following combinations. For some of the commands I didn't get any ouputs and for some I got errors.
-* cd and cp
+* ```cd ``` and ```cp ```
 ![Image](Screen Shot 2023-04-10 at 11.48.18 AM.png)
-* pwd and ls
+* ```pwd ``` and ```ls```
 ![Image](Screen Shot 2023-04-10 at 11.48.51 AM.png)
-* mkdir and pwd
+* ```mkdir ``` and ```pwd ```
 ![Image](Screen Shot 2023-04-10 at 11.49.29 AM.png)
 
 
 2. Run the following commands and note the output. 
-* cd ~
-* ls -lat
-* ls -a
-* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username
-* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* ```cd ~ ```
+* ```ls -lat ```
+* ```ls -a ```
+* ```ls <directory> ``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is a group members’ username
+* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/```
+* ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` 
 
 3. I ran all these commands and the following is what I got.
-* cd ~. 
+* ```cd ~``` 
 
 ![Image](Screen Shot 2023-04-10 at 3.39.47 PM.png)
-* ls -lat
+* ```ls -lat```
 
 ![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
-* ls -a 
+* ```ls -a ```
 
 ![Image](Screen Shot 2023-04-10 at 3.40.18 PM.png)
-* ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the "abc" is a group members’ username. 
+* ```ls <directory> ``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is a group members’ username 
 
 ![Image](Screen Shot 2023-04-10 at 3.41.51 PM.png)
-* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/. 
+* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/```
 
 ![Image](Screen Shot 2023-04-10 at 3.42.18 PM.png)
-* cat /home/linux/ieng6/cs15lsp23/public/hello.txt. 
+* ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` 
 
 ![Image](Screen Shot 2023-04-10 at 3.42.35 PM.png)
 
