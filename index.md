@@ -1,7 +1,7 @@
 # Lab Report 1
 
 ## Changing Your Password
-1. Go to this [link] (https://sdacs.ucsd.edu/~icc/index.php)
+1. Go to this [link](https://sdacs.ucsd.edu/~icc/index.php)
 2. Enter your username and PID. ![Image](Screen Shot 2023-04-10 at 2.56.25 PM.png)
 3. Click the button under the header "Additional Accounts"  
 ![Image](Screen Shot 2023-04-10 at 11.30.45 AM.png)
@@ -25,7 +25,7 @@
 
 Note: I did not need to do these steps because my computer already had VScode downloaded
 
-1. In order to download VScode, you first need to go the the [Visual Studio Code website] (https://code.visualstudio.com/) 
+1. In order to download VScode, you first need to go the the [Visual Studio Code website](https://code.visualstudio.com/) 
 2. Complete the instructions on the website to download it to your computer. 
 3. Cick on the button in the top right that says "download". ![Image](Screen Shot 2023-04-10 at 3.14.37 PM.png)
 4. Download the version that applies to your computer. ![Image](Screen Shot 2023-04-10 at 3.15.36 PM.png)
@@ -94,20 +94,31 @@ I also ran the following combinations. For some of the commands I didn't get any
 * ```cd ~``` 
 
 ![Image](Screen Shot 2023-04-10 at 3.39.47 PM.png)
+In this screenshot, the current working directory is changed to the user's home directory.
+
 * ```ls -lat```
 
 ![Image](Screen Shot 2023-04-05 at 5.53.55 PM.png)
+In this screenshot, the files and directories in the current working directory are listed by modification time in reverse order.
+
 * ```ls -a ```
 
 ![Image](Screen Shot 2023-04-10 at 3.40.18 PM.png)
+In this screenshot, all the files and directories in the current working directory are listed, including hidden files and directories.
+
 * ```ls <directory> ``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is a group members’ username 
 
 ![Image](Screen Shot 2023-04-10 at 3.41.51 PM.png)
+In this screenshot, the files in the path ```/home/linux/ieng6/cs15lsp23/cs15lsp23dd``` are listed.
+
 * ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/```
 
 ![Image](Screen Shot 2023-04-10 at 3.42.18 PM.png)
+In this screenshot, the files in the path ```/home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` are copied.
+
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` 
 
 ![Image](Screen Shot 2023-04-10 at 3.42.35 PM.png)
+In this screenshot, the contents of the file in the path ```/home/linux/ieng6/cs15lsp23/public/hello.txt``` are printed.
 
 
