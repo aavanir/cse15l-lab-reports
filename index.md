@@ -55,14 +55,23 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? ." If this 
 
 * ```cd ```
 ![Image](Screen Shot 2023-04-10 at 11.49.36 AM.png)
+This command is “Change Directory” and it is used to switch the current working directory to the given path
+
 * ```ls ```
 ![Image](Screen Shot 2023-04-10 at 11.47.08 AM.png)
+This command is “List” and it is used to list the files and folders the given path
+
 * ```pwd ```
 ![Image](Screen Shot 2023-04-10 at 11.47.16 AM.png)
+This command is “Print working directory” and it is used to display thecurrent working directory
+
 * ```mkdir```
 ![Image](Screen Shot 2023-04-10 at 11.47.57 AM.png)
+This command is "Make Directory" and it is used to create a new directory
+
 * ```cp ```
 ![Image](Screen Shot 2023-04-10 at 11.48.07 AM.png)
+This command is "Copy" and it is used to copy files or directories from one location to another
 
 I also ran the following combinations. For some of the commands I didn't get any ouputs and for some I got errors.
 * ```cd ``` and ```cp ```
