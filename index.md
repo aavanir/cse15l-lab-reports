@@ -51,25 +51,17 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? ." If this 
 
 ## Trying Some Commands
 
-1. Using the terminal in VScode, run the following commands: , ls, pwd, mkdir, and cp. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
-```cd ```
-```ls
-```
-```pwd
-```
-```mkdir
-```
-```cp
-```
-* cd 
+1. Using the terminal in VScode, run the following commands: ```cd ```, ```ls ```, ```pwd ```, ```mkdir```, and ```cp ```. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
+
+* ```cd ``
 ![Image](Screen Shot 2023-04-10 at 11.49.36 AM.png)
-* ls
+* ```ls ```
 ![Image](Screen Shot 2023-04-10 at 11.47.08 AM.png)
-* pwd
+* ```pwd ```
 ![Image](Screen Shot 2023-04-10 at 11.47.16 AM.png)
-* mkdir
+* ```mkdir```
 ![Image](Screen Shot 2023-04-10 at 11.47.57 AM.png)
-* cp
+* ```cp ```
 ![Image](Screen Shot 2023-04-10 at 11.48.07 AM.png)
 
 I also ran the following combinations. For some of the commands I didn't get any ouputs and for some I got errors.
