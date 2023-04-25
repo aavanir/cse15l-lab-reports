@@ -33,7 +33,7 @@ Note: I did not need to do these steps because my computer already had VScode do
 
 ## Remotely Connecting
 
-1. Open the terminal in VScode. This can be done by opening VScode and going to "view" in the top left corner of your Mac. Then, click "view" and you should be able to open the terminal.
+1. Open the terminal in VScode. This can be done by opening VScode and going to "view" in the top left corner of your Mac. Then, click "view" and you should be able to open the terminal
 
 2. Type in the command ```ssh cs15lsp23dd@ieng6.ucsd.edu```. However, you will have to replace "dd" with the letters in your course-specific account. I typed in the command ```ssh cs15lsp23dd@ieng6.ucsd.edu``` because the letters in my course-specific account were "dd". ![Image](Screen Shot 2023-04-10 at 3.31.29 PM.png) As you can see in the screenshot, under the heading "Additional Accounts", the letters for my course-specific account were the letters where the dashes are in "cs15lsp23--" on the button text.  
 
