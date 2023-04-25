@@ -19,7 +19,7 @@ Input that doesn't induce failure:
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
 ```
-Ouput: ![Image](Screen Shot 2023-04-10 at 3.41.51 PM.png)
+Symptom/Ouput: ![Image](Screen Shot 2023-04-24 at 11.20.33 PM.png)
 
 Code with bug:
 ```
