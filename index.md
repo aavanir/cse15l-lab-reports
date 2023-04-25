@@ -51,7 +51,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? ." If this 
 
 ## Trying Some Commands
 
-1. Using the terminal in VScode, run the following commands: ```cd ```, ```ls ```, ```pwd ```, ```mkdir```, and ```cp ```. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
+1. Using the terminal in VScode, run the following commands: ```ruby cd ```, ```ls ```, ```pwd ```, ```mkdir```, and ```cp ```. Try various combinations of these commands, noting when they work and when you get an error. I ran all these commands.
 
 * ```cd ```
 ![Image](Screen Shot 2023-04-10 at 11.49.36 AM.png). 
