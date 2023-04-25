@@ -23,7 +23,7 @@
 
 ## Installing VScode
 
-Note: I did not need to do these steps because my computer already had VScode downloaded
+Note: I did not need to do these steps because my computer already had VScode downloaded.
 
 1. In order to download VScode, you first need to go the the [Visual Studio Code website](https://code.visualstudio.com/) 
 2. Complete the instructions on the website to download it to your computer. 
